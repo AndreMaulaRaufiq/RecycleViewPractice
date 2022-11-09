@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tour Practice</string>
+    <string name="tour_name">tour_name</string>
+    <string name="tour_description">tour_description</string>
+</resources>
